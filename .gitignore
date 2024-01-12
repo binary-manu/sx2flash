@@ -1,0 +1,14 @@
+# dot files
+/.vscode/
+/.gdbinit
+/.envrc
+
+# IHEX file samples, own temp stuff, ...
+/.private/
+# I usually make out-of-tree builds here
+/build/
+
+# Build artifacts
+*.o
+*.hex
+*.elf
