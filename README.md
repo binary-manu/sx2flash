@@ -1,3 +1,5 @@
+**⚠️ Migrated to https://codeberg.org/binary-manu/sx2flash ⚠️**
+
 # `sx2flash`: an MCU bootloader to flash firmware using only a serial console and XMODEM
 
 _Please note: this is an end-of-course test project. It may contain bugs and be
